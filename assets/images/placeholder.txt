@@ -1,0 +1,3 @@
+# Place your image assets here
+# Example: logo.png, background.jpg, etc.
+

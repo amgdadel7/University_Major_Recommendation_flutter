@@ -1,0 +1,4 @@
+# Place your Lottie animation files here
+# Download from: https://lottiefiles.com
+# Example: loading.json, success.json, etc.
+

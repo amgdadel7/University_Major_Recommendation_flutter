@@ -1,0 +1,51 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="512" cy="512" r="500" fill="#6B46C1" stroke="#4C1D95" stroke-width="8"/>
+  
+  <!-- Outer Ring -->
+  <circle cx="512" cy="512" r="450" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.3"/>
+  
+  <!-- Compass Rose - Main Directions -->
+  <!-- North -->
+  <path d="M 512 80 L 492 160 L 512 140 L 532 160 Z" fill="#FFFFFF"/>
+  <text x="512" y="50" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">N</text>
+  
+  <!-- South -->
+  <path d="M 512 944 L 492 864 L 512 884 L 532 864 Z" fill="#FFFFFF"/>
+  <text x="512" y="980" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">S</text>
+  
+  <!-- East -->
+  <path d="M 944 512 L 864 492 L 884 512 L 864 532 Z" fill="#FFFFFF"/>
+  <text x="970" y="530" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">E</text>
+  
+  <!-- West -->
+  <path d="M 80 512 L 160 492 L 140 512 L 160 532 Z" fill="#FFFFFF"/>
+  <text x="54" y="530" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">W</text>
+  
+  <!-- Compass Needle - North Pointing -->
+  <path d="M 512 300 L 462 550 L 512 480 L 562 550 Z" fill="#F59E0B" stroke="#D97706" stroke-width="4"/>
+  <path d="M 512 724 L 462 474 L 512 544 L 562 474 Z" fill="#EF4444" stroke="#DC2626" stroke-width="4"/>
+  
+  <!-- Center Circle -->
+  <circle cx="512" cy="512" r="100" fill="#FFFFFF" stroke="#6B46C1" stroke-width="6"/>
+  <circle cx="512" cy="512" r="60" fill="#6B46C1"/>
+  
+  <!-- Academic Symbol - Graduation Cap -->
+  <path d="M 412 432 L 512 392 L 612 432 L 612 480 L 592 470 L 592 455 L 532 485 L 532 520 L 492 520 L 492 485 L 432 455 L 432 470 L 412 480 Z" fill="#F59E0B"/>
+  <circle cx="492" cy="530" r="8" fill="#F59E0B"/>
+  <circle cx="532" cy="530" r="8" fill="#F59E0B"/>
+  <path d="M 492 538 Q 512 548 532 538" stroke="#F59E0B" stroke-width="3" fill="none"/>
+  
+  <!-- Decorative Stars -->
+  <circle cx="300" cy="300" r="4" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="724" cy="300" r="4" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="300" cy="724" r="4" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="724" cy="724" r="4" fill="#F59E0B" opacity="0.8"/>
+  
+  <!-- Degree Markers -->
+  <line x1="512" y1="100" x2="512" y2="120" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="912" y1="512" x2="892" y2="512" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="512" y1="924" x2="512" y2="904" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="112" y1="512" x2="132" y2="512" stroke="#FFFFFF" stroke-width="4"/>
+</svg>
+
